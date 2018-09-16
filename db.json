@@ -1,1 +1,10 @@
-
+{
+  "students": [
+    { "id": 1, "name": "Allen" },
+    { "id": 2, "name": "Zack" },
+    { "id": 3, "name": "Peter" }
+  ],
+  "passed": [
+  { "id": 1, "name": "Allen", "roll": "798" }
+  ],
+}
