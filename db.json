@@ -1,10 +1,50 @@
 {
   "students": [
-    { "id": 1, "name": "Allen" },
-    { "id": 2, "name": "Zack" },
-    { "id": 3, "name": "Peter" }
+    {
+      "id": 1,
+      "name": "Allen",
+      "stream": "Science"
+    },
+    {
+      "id": 2,
+      "name": "Zack",
+      "stream": "Science"
+    },
+    {
+      "id": 3,
+      "name": "Zoe",
+      "stream": "Commerce"
+    },
+    {
+      "id": 4,
+      "name": "Dhawal",
+      "stream": "Commerce",
+      "roll": "77"
+    },
+    {
+      "id": 5,
+      "name": "Avi",
+      "stream": "Science",
+      "roll": "38"
+    },
+    {
+      "name": "Yash",
+      "stream": "Commerce",
+      "id": 6
+    }
   ],
   "passed": [
-  { "id": 1, "name": "Allen", "roll": "798" }
-  ],
+    {
+      "id": 1,
+      "name": "Allen",
+      "stream": "Science",
+      "roll": "798"
+    },
+    {
+      "id": 2,
+      "name": "Zoe",
+      "stream": "Commerce",
+      "roll": "200"
+    }
+  ]
 }
