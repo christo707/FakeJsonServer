@@ -36,13 +36,13 @@
   "passed": [
     {
       "id": 1,
-      "name": "Allen",
+      "name": "Abhishek",
       "stream": "Science",
       "roll": "798"
     },
     {
       "id": 2,
-      "name": "Zoe",
+      "name": "Aman",
       "stream": "Commerce",
       "roll": "200"
     }
