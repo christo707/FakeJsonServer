@@ -1,45 +1,27 @@
 {
-  "students": [
+  "items": [
     {
       "id": 1,
-      "name": "Allen",
-      "stream": "Science"
+      "name": "Shampoo"
     },
     {
       "id": 2,
-      "name": "Zack",
-      "stream": "Science"
+      "name": "Rice"
     },
     {
       "id": 3,
-      "name": "Zoe",
-      "stream": "Commerce"
+      "name": "Cereal"
     },
     {
       "id": 4,
-      "name": "Dhawal",
-      "stream": "Commerce",
-      "roll": "77"
-    },
-    {
-      "id": 5,
-      "name": "Avi",
-      "stream": "Science",
-      "roll": "38"
+      "name": "Biscuits"
     }
   ],
-  "passed": [
+  "received": [
     {
       "id": 1,
-      "name": "Abhishek",
-      "stream": "Science",
-      "roll": "798"
-    },
-    {
-      "id": 2,
-      "name": "Aman",
-      "stream": "Commerce",
-      "roll": "200"
+      "name": "Cake",
+      "quantity": 20
     }
   ]
 }

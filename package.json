@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "echo \"Installing Dependencies\" && npm install && echo \"Starting Server \" && json-server --watch db.json"
+    "start": "echo \"Starting Server\" && json-server --watch db.json",
+    "build": "echo \"Installing Dependencies\" && npm install && npm start"
   },
   "repository": {
     "type": "git",
