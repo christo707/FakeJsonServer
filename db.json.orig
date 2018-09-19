@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Shampoo"
+    },
+    {
+      "id": 2,
+      "name": "Rice"
+    },
+    {
+      "id": 3,
+      "name": "Cereal"
+    },
+    {
+      "id": 4,
+      "name": "Biscuits"
+<<<<<<< HEAD
+    }
+  ],
+  "received": [
+    {
+      "id": 1,
+      "name": "Cake",
+      "quantity": 20
+    }
+=======
+    },
+    {
+      "id": 5,
+      "name": "Chocolate"
+    }
+  ],
+  "received": [
+    
+>>>>>>> 172d67833906c1fbcab201190439ece8ff52945a
+  ]
+}
