@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Donna Paulson",
+      "email": "donna@gmail.com",
+      "score": 8,
+      "time": "1:05"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "qn": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "options": ["largest railway station","Highest railway station","Longest railway station","None of the Above"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "qn": "Entomology is the science that studies",
+      "options": ["Behavior of human beings","Insects","The origin and history of technical and scientific terms","The formation of rocks"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "qn": "For which of the following disciplines is Nobel Prize awarded?",
+      "options": ["Physics and Chemistry","Physiology or Medicine","Literature, Peace and Economics","All of the above"],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "qn": "Exposure to sunlight helps a person improve his health because",
+      "options": ["the infrared light kills bacteria in the body","resistance power increases","the pigment cells in the skin get stimulated and produce a healthy tan","the ultraviolet rays convert skin oil into Vitamin D"],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "qn": "Film and TV institute of India is located at",
+      "options": ["Pune (Maharashtra)","Rajkot (Gujarat)","Pimpri (Maharashtra)","Perambur (Tamilnadu)"],
+      "correct": 0
+    }
+  ]
+}
